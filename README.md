@@ -6,7 +6,7 @@
 ![OSMnx](https://img.shields.io/badge/OSMnx-API-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clis3n/SIGSEB_Final_23517152_Clisen/blob/main/23-517152-SV-22742_ClisenArdyLaksonoWicaksono_Kode.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Clis3n/23-517152-SV-22742_Clisen-Ardy-Laksono-Wicaksono_GitHub/blob/main/23-517152-SV-22742_Clisen-Ardy-Laksono-Wicaksono_Kode.ipynb)
 
 *(Klik lencana di atas untuk mereproduksi seluruh alur komputasi spasial secara instan melalui cloud)*
 
